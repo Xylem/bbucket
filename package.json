@@ -1,0 +1,21 @@
+{
+  "name": "bbucket",
+  "version": "0.0.1",
+  "description": "Bitbucket CLI",
+  "main": "index.js",
+  "bin": {
+    "bb": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xylem",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "rc": "^1.1.6",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1",
+    "text-table": "^0.2.0"
+  }
+}
