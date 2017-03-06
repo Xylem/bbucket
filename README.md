@@ -6,6 +6,7 @@ username=<Bitbucket username>
 password=<Bitbucket password>
 team=<team's username>
 projectKey=<project key>
+approveThreshold=<number of approves for PR to be considered 'ready', default = 2>
 ```
 
 # Installing
